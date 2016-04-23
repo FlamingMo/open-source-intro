@@ -7,4 +7,9 @@ var attendees = [
         "name": "Madhuri Yechuri",
         "username": "myechuri"
     }
+    {
+        "name": "Mo Ip",
+        "username": "FlamingMo"
+    }
+   
 ];
